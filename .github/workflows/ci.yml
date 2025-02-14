@@ -9,7 +9,7 @@ on:
       - main
 
 env:
-  REPOSITORY_NAME: Jody
+  REPOSITORY_NAME: khani23
   IMAGE_TAG: latest
 
 jobs:
